@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Playwright
+playwright-report/
+test-results/
+storage_state.json
+
+# Screenshots
+screenshots/
+
+# HTML Reports
+*.html
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.swp
